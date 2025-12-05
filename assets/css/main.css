@@ -3572,3 +3572,7 @@ section,
 .hero.dark-background::before {
   background: none !important;
 }
+.logo-img {
+  height: 100px !important; /* adjust as needed */
+  width: auto;
+}
